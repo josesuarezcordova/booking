@@ -1,0 +1,12 @@
+{
+    "name": "josesuarezcordova/booking",
+    "description": "This is a package for Booking built to Juvo",
+    "authors": [
+        {
+            "name": "Jose Suarez",
+            "email": "jsuarez.developer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
